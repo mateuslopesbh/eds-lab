@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# EDS Lab
+Exploring AEM Edge Delivery Services components. 
 
 ## Environments
 - Preview: https://main--eds-lab--mateuslopesbh.hlx.page/
